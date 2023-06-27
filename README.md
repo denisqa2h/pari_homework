@@ -7,7 +7,7 @@ Steps:
 1. Поднять докер:
    
 <pre>
-sudo docker-compose -f ./airflow-docker-compose.yaml --env-file ./.env up
+sudo docker-compose -f ./airflow-docker-compose.yaml --env-file ./.env up -d --build
 </pre>
 2. Создать базу:
 
