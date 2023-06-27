@@ -1,0 +1,1 @@
+CREATE DATABASE pari_football;
