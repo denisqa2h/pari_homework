@@ -33,5 +33,18 @@ make_pdf_report_pl_stats_dag.py - Формирует отчет в PDF
 
 orchestration_dag.py - Оркестрация скриптов и формирование DAG'a
 
-
 Сформированные отчеты в dags/docs/report_<время сформированного отчета>
+
+# Таблички и БД
+
+БД - pari_football
+
+pl_fixtures - встречи команд запланированные
+
+pl_team_statistics - статистика команд
+
+pl_players - статистика игроков
+
+pl_fixtures_stats - отчетная таблица со встречами
+
+
